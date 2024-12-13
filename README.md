@@ -24,3 +24,6 @@ Caso ocorra algum erro, uma mensagem de erro é exibida ao usuário.
 
 
 ![image](https://github.com/user-attachments/assets/9c702d48-394b-49cd-994b-aa56d5475d2b)
+
+
+![image](https://github.com/user-attachments/assets/06767c3f-f8a4-47fc-adc1-a91bc203b28b)
