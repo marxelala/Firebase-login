@@ -5,12 +5,13 @@ import { getFirestore, setDoc, doc } from "https://www.gstatic.com/firebasejs/10
 
 // Configurações do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDgebnGL3RwYEPtNLvFRO-F7J0Pb_olY_A",
-  authDomain: "loginpw2-f9d87.firebaseapp.com",
-  projectId: "loginpw2-f9d87",
-  storageBucket: "loginpw2-f9d87.firebasestorage.app",
-  messagingSenderId: "788199652563",
-  appId: "1:788199652563:web:91998b18aad2c5d1df6826"
+  apiKey: "AIzaSyD0wC8NDXojwsj-cONkESXJ82ETt94stwQ",
+  authDomain: "loginpw2-e5214.firebaseapp.com",
+  projectId: "loginpw2-e5214",
+  storageBucket: "loginpw2-e5214.firebasestorage.app",
+  messagingSenderId: "604134471491",
+  appId: "1:604134471491:web:6b289b81cc27f1e278a1f6",
+  measurementId: "G-TM21NMLGGX"
 };
 
 // Inicializa o Firebase
